@@ -6,7 +6,8 @@ int main (int argc, char *argv[]) // (int argc, char *argv[]) bisa digunakan bis
 {
 	float c,r,k,f;
 	cout<<"======================================="<<endl;
-	cout<<"|             KONVERSI SUHU           | "<<endl;
+	cout<<"|             KONVERSI SUHU            | "<<endl;
+	cout<<"|                 Pemula		BY:ALI|"<<endl;
 	cout<<"======================================="<<endl;
 	cout<<"\t MASUKAN SUHU (Celcius) = "; cin>>c;
 	
